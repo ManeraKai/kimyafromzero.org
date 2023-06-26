@@ -1,0 +1,400 @@
+:root {
+    --blue: #498bb9;
+    --vibrant_blue: #006fbf;
+    --red: #CE584F;
+    --orange: #FF8562;
+    --green: #1cf11c;
+    --background: #121212;
+    --onbckground: #1e1e1e;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.green, .answer, .correct {
+    color: var(--green);
+}
+
+.wrong {
+    color: #f11c1cff;
+}
+
+input[type=checkbox].answer:checked+label+span span.pink, .pink {
+    color: rgb(191, 33, 212)
+}
+
+input[type=checkbox].answer:checked+label+span span.blue, .blue {
+    color: var(--blue);
+}
+
+.blue_vibrant {
+    color: var(--vibrant_blue);
+}
+
+input[type=checkbox].answer:checked+label+span span.orange, .orange {
+    color: var(--orange)
+}
+
+input[type=checkbox].answer:checked+label+span span.yellow, .yellow, .C, .Na, .S {
+    color: #ffff66;
+}
+
+.H, .vibrant_red {
+    color: #ff2b2b;
+}
+
+.O, .N, .blue_vibrant {
+    color: #4242ff;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('./fonts/Vazirmatn-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./fonts/Inter-VariableFont_slnt,wght.ttf');
+}
+
+html {
+    font-family: Vazirmatn, Inter, Arial, Helvetica, sans-serif;
+    unicode-range: U+0600-06FF;
+    font-size: 1.2rem;
+    background-color: var(--background);
+    color: white;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    font-weight: normal;
+}
+
+h2 a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+div.center {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+div.center h1 {
+    text-align: center;
+}
+
+div.center h3.center, div.center h4.center {
+    text-align: center;
+}
+
+div.center h3, div.center h4 {
+    font-weight: 500;
+    font-family: Vazirmatn, Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+div.center h3 {
+    font-size: 32px;
+}
+div.center h4 {
+    font-size: 28px;
+}
+
+div.center h2 {
+    color: var(--blue);
+}
+
+div.navbar {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #1e1e1e;
+}
+
+div.navbar a {
+    margin: 24px 15px;
+}
+
+div.navbar a.logo {
+    margin: 0;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+div.navbar a.logo img {
+    height: 55px;
+    padding: 10px 0;
+    width: auto;
+}
+
+div.navbar a {
+    text-decoration: none;
+    color: white;
+    transition: .1s;
+    transition-property: color;
+}
+
+div.navbar a:hover {
+    color: var(--vibrant_blue);
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--red)
+}
+
+.red {
+    color: var(--red);
+}
+
+p.red a {
+    color: var(--orange);
+}
+
+p.red em {
+    color: var(--red);
+    text-decoration: underline;
+}
+
+ul.center, h2.center h1.center {
+    color: white !important;
+}
+
+ul.center, h2.center h1.center, p.center {
+    text-align: center;
+}
+
+.no_top {
+    margin-top: 0;
+}
+
+.no_bottom {
+    margin-bottom: 0;
+}
+
+.no_margin {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+strong em {
+    text-decoration: underline;
+    font-style: bold;
+    color: white;
+}
+
+img.portrait {
+    width: 60%;
+}
+
+img.normal {
+    width: auto;
+    height: auto;
+}
+
+div.extra {
+    max-width: 1220px;
+}
+
+a.extra {
+    display: flex;
+}
+
+a.extra img {
+    width: 1200px;
+}
+
+div.figure {
+    padding: 5px 10px;
+    border: 2px solid var(--onbckground);
+}
+
+div.no_border {
+    border: none;
+    padding: 0;
+}
+
+div.figure div {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+div.figure div p {
+    max-width: 95%;
+}
+
+h2.blue a {
+    color: var(--blue) !important;
+}
+
+h2 a {
+    color: var(--blue);
+}
+
+span.term {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+span.underline {
+    text-decoration: underline;
+}
+
+span.dimmed, a.dimmed {
+    color: rgb(150, 150, 150);
+}
+
+a.next {
+    float: left;
+    margin-bottom: 50px;
+}
+
+a.previous {
+    float: right;
+    margin-bottom: 50px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+dd a {
+    color: var(--blue);
+}
+
+div.red_box {
+    border: 2px solid var(--red);
+    max-width: 800px;
+    padding: 25px 50px;
+}
+
+input[type=checkbox].answer {
+    display: none;
+}
+
+input[type=checkbox].answer+label {
+    cursor: pointer;
+}
+
+input[type=checkbox].answer+label::after {
+    content: ' ';
+}
+
+input[type=checkbox].answer:not(:checked)+label+div,
+input[type=checkbox].answer:not(:checked)+label+span {
+    filter: blur(10px);
+}
+
+input[type=checkbox].answer+label+div,
+input[type=checkbox].answer+label+span {
+    color: var(--green);
+}
+
+p span.li {
+    margin-right: 20px;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border: 2px solid var(--onbckground);
+}
+
+td, th {
+    padding: 7px;
+}
+
+table {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+table.center {
+    text-align: center;
+}
+
+body.index {
+    height: 100vh;
+}
+
+.space_between {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.footer {
+    background-color: var(--onbckground);
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    transition: .1s;
+}
+
+.footer a:hover {
+    color: var(--vibrant_blue);
+}
+
+@media screen and (max-width: 1300px) {
+    div.navbar a {
+        margin: 10px 15px;
+    }
+
+    a.extra img {
+        width: auto;
+        max-width: 100%;
+    }
+
+    div.red_box {
+        width: 750px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    img.portrait {
+        width: 100%;
+    }
+
+    div.navbar a.logo {
+        width: 100%;
+        margin: 0;
+        justify-content: center;
+    }
+
+    div.navbar a.logo img {
+        margin: 0 auto;
+    }
+
+    div.center h3.center {
+        font-size: 4vw;
+    }
+
+    div.red_box {
+        padding: 5px 15px;
+        max-width: 90vw;
+    }
+}

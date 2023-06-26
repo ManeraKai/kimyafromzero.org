@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="304.13263mm"
+   height="96.688728mm"
+   viewBox="0 0 304.13263 96.68873"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fig_2.10.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="../imgs/fig_2.10.png"
+   inkscape:export-xdpi="183.403"
+   inkscape:export-ydpi="183.403"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#121212"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="517"
+     inkscape:cy="222"
+     inkscape:window-width="1888"
+     inkscape:window-height="1060"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(219.68805,-172.2345)">
+    <path
+       id="path1177"
+       stroke-width="0.2"
+       stroke-miterlimit="2"
+       stroke-linecap="square"
+       stroke="#000000"
+       fill-rule="evenodd"
+       fill-opacity=".94"
+       fill="#f0ff8f"
+       d="m -126.47137,227.52952 h 30.886528 v 31.044 h -30.886528 z"
+       style="fill:#ff2b96;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.30931px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;direction:rtl;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="66.552521"
+       y="188.62286"
+       id="text432"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="66.552521"
+         y="188.62286"
+         id="tspan430">العدد الذري = عدد الإلكترونات في الذرة = عدد البروتونات في الذرة = شحنة نواة الذرة</tspan></text>
+    <path
+       id="path1175"
+       stroke-width="0.2"
+       stroke-miterlimit="2"
+       stroke-linecap="square"
+       stroke="#000000"
+       fill-rule="evenodd"
+       fill-opacity=".94"
+       fill="#f0ff8f"
+       d="m -84.170392,227.52952 h 30.88653 v 31.044 h -30.88653 z"
+       style="fill:#2495ff;fill-opacity:0.941176" />
+    <path
+       id="path34"
+       stroke-width="0.2"
+       stroke-miterlimit="2"
+       stroke-linecap="square"
+       stroke="#000000"
+       fill-rule="evenodd"
+       fill-opacity=".94"
+       fill="#f0ff8f"
+       d="m -41.869412,227.52952 h 30.88653 v 31.044 h -30.88653 z"
+       style="fill:#ff4545;fill-opacity:1" />
+    <text
+       id="text152"
+       stroke-width="0.17"
+       font-size="12.2944px"
+       y="248.2482"
+       x="-31.115812"
+       transform="scale(0.99746096,1.0025455)">H</text>
+    <text
+       id="text154"
+       stroke-width="0.17"
+       font-size="4.16758px"
+       y="253.20586"
+       x="-34.855042"
+       transform="scale(0.99746096,1.0025455)">هيدروجين</text>
+    <text
+       id="text158"
+       stroke-width="0.17"
+       font-size="4.16758px"
+       y="232.76558"
+       x="-40.058929"
+       transform="scale(0.99746096,1.0025455)">1.008</text>
+    <text
+       id="text160"
+       stroke-width="0.17"
+       font-size="6.87651px"
+       y="234.70355"
+       x="-16.824615"
+       transform="scale(0.99746096,1.0025455)">1</text>
+    <text
+       id="text2708"
+       stroke-width="0.17"
+       font-size="12.2944px"
+       y="248.771"
+       x="-73.457855"
+       transform="scale(0.99746096,1.0025455)">C</text>
+    <text
+       id="text2710"
+       stroke-width="0.17"
+       font-size="4.16758px"
+       y="253.72871"
+       x="-74.631699"
+       transform="scale(0.99746096,1.0025455)">كربون</text>
+    <text
+       id="text2714"
+       stroke-width="0.17"
+       font-size="4.16758px"
+       y="233.28844"
+       x="-82.719086"
+       transform="scale(0.99746096,1.0025455)">12.011</text>
+    <text
+       id="text2716"
+       stroke-width="0.17"
+       font-size="6.87651px"
+       y="235.22635"
+       x="-59.484814"
+       transform="scale(0.99746096,1.0025455)">6</text>
+    <text
+       id="text624"
+       font-size="12.2944px"
+       y="248.77103"
+       x="-116.12815"
+       style="stroke-width:0.17"
+       transform="scale(0.99746096,1.0025455)">U</text>
+    <text
+       id="text626"
+       font-size="4.16758px"
+       y="253.72868"
+       x="-118.5161"
+       style="stroke-width:0.17"
+       transform="scale(0.99746096,1.0025455)">يورانيوم</text>
+    <text
+       id="text632"
+       font-size="4.16758px"
+       y="233.28847"
+       x="-125.17345"
+       style="stroke-width:0.17"
+       transform="scale(0.99746096,1.0025455)">238.03</text>
+    <text
+       id="text634"
+       font-size="6.87651px"
+       y="235.22638"
+       x="-105.81504"
+       style="stroke-width:0.17"
+       transform="scale(0.99746096,1.0025455)">92</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.30931px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-decoration:underline;text-decoration-line:underline;direction:rtl;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="66.552521"
+       y="188.62286"
+       id="text8252"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="66.552521"
+         y="188.62286"
+         id="tspan8250">العدد الذري</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m -72.239729,194.19153 -24.926769,32.24385"
+       id="path8317"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m -63.972878,194.13541 42.527114,33.41122"
+       id="path8595"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m -68.294625,194.30379 9.066356,31.65534"
+       id="path8648"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="222.49748mm"
+   height="49.459991mm"
+   viewBox="0 0 222.49747 49.459992"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fig_1.77.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="../img/fig_1.77.png"
+   inkscape:export-xdpi="183.403"
+   inkscape:export-ydpi="183.403"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#121212"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="347.49997"
+     inkscape:cy="53.999995"
+     inkscape:window-width="1888"
+     inkscape:window-height="1060"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g752" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.605673,-175.4744)">
+    <g
+       id="g752"
+       transform="translate(-5.4320794,-11.801574)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff2b2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="62.589897"
+         y="203.76915"
+         id="text432"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff2b2b;fill-opacity:1;stroke-width:0.264583"
+           x="62.589897"
+           y="203.76915"
+           id="tspan430">K Na Ca Mg Al Zn Fe Sn</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#006fbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="177.94878"
+         y="203.76915"
+         id="text430"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#006fbf;fill-opacity:1;stroke-width:0.264583"
+           x="177.94878"
+           y="203.76915"
+           id="tspan428">[H]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="196.84473"
+         y="203.76915"
+         id="text434"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="196.84473"
+           y="203.76915"
+           id="tspan432">Cu Hg Ag Au Pt</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87923px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="198.01094"
+         y="224.16673"
+         id="text557"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="198.01094"
+           y="224.16673"
+           id="tspan555" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93466px;line-height:1.25;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="80.344765"
+         y="226.16455"
+         id="text561"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="80.344765"
+           y="226.16455"
+           id="tspan559">التفاعلية تجاه الأحماض</tspan></text>
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 197.45967,212.27862 h 71.432"
+         id="path563" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="M 173.00399,212.27862 H 62.355245"
+         id="path1362" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93466px;line-height:1.25;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="195.74368"
+         y="226.16455"
+         id="text1464"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="195.74368"
+           y="226.16455"
+           id="tspan1462">لا يتفاعلون مع الأحماض</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93466px;line-height:1.25;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;text-decoration:underline;text-decoration-line:underline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="266.29938"
+         y="226.16457"
+         id="text3682"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="266.29938"
+           y="226.16457"
+           id="tspan3680">لا</tspan></text>
+    </g>
+    <g
+       id="g767"
+       transform="translate(-5.810518,-11.844442)" />
+  </g>
+</svg>

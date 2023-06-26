@@ -1,0 +1,24 @@
+mixin navbar
+    div.navbar
+        a.logo(href="/")
+            img(src="/imgs/logo.png" alt="Chemistry From Scratch logo")
+        a(href="/") الرئيسية
+        a(href="/introduction") المقدمة
+        a(href="/coursemodules") وحدات الدورة
+        a(href="https://chemistryfromscratch.org/glossary" target="_blank") المصطلحات
+        a(href="/faq") أسئلة متكررة
+        a(href="/contact") التواصل
+        a(href="/donate") التبرع
+
+mixin metadata
+    meta(name="description" content="دورة مجانية هي للذين يتمنون تعلم الكيمياء من الصفر")
+    meta(name="keywords" content="kimya, chemistry, كيمياء, دورة, course")
+    meta(http-equiv="Content-Type" content="text/html; charset=UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3.0, minimum-scale=1, user-scalable=yes")
+    meta(name="theme-color" content="#141414")
+    link(href="/css/main.css" type="text/css" rel="stylesheet")
+    link(rel="shortcut icon" href="img/favicon.ico" type="image/x-icon")
+
+mixin experiments_disclaimer
+    p
+        strong <em>تحذير</em>: على الرغم من أن أغلب التجارب المشروحة في هذه الدورة هي تجارب قليلة الخطر، فأنا ما لي أي دخل ولا أي مسؤولية عن أي شيء كضرر، إصابة أو موت يمكن أن يحصل بسبب إحدى هذه التجارب. لذلك، فأنت تتحمل المسؤولية كاملة (انظر إلى <a href="/termsofuse">شروط الاستخدام</a>).

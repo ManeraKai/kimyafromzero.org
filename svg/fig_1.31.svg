@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="701.22247"
+   height="361.98895"
+   style="overflow:hidden"
+   aria-label="A chart."
+   version="1.1"
+   id="svg151"
+   sodipodi:docname="fig_1.31.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="../img/fig_1.31.png"
+   inkscape:export-xdpi="247.64774"
+   inkscape:export-ydpi="247.64774"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview153"
+     pagecolor="#121212"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1425758"
+     inkscape:cx="271.31679"
+     inkscape:cy="172.41744"
+     inkscape:window-width="1888"
+     inkscape:window-height="1060"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg151" />
+  <defs
+     id="_ABSTRACT_RENDERER_ID_46" />
+  <g
+     id="g13"
+     transform="translate(-19.759175,-59.45391)"
+     style="stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1">
+    <path
+       d="M 370,241 V 92 a 149,149 0 0 1 4.6802,297.92648 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#3366cc"
+       id="path11"
+       style="fill:#4242ff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g17"
+     style="fill:#ff2b2b;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 359.71006,92.355737 A 149,149 0 0 1 370,92 v 149"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#316395"
+       id="path15"
+       style="fill:#ff2b2b;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g21"
+     style="fill:#7e7eff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 342.08018,94.6392 a 149,149 0 0 1 17.62988,-2.283463 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#b82e2e"
+       id="path19"
+       style="fill:#7e7eff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g25"
+     style="fill:#6dff66;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 324.84774,99.006078 A 149,149 0 0 1 342.08018,94.6392 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#66aa00"
+       id="path23"
+       style="fill:#6dff66;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g29"
+     style="fill:#ff52a0;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 304.02902,107.40049 a 149,149 0 0 1 20.81872,-8.394412 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#dd4477"
+       id="path27"
+       style="fill:#ff52a0;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g33"
+     style="fill:#74e0ff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 283.17912,119.90857 a 149,149 0 0 1 20.8499,-12.50808 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#0099c6"
+       id="path31"
+       style="fill:#74e0ff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g37"
+     style="fill:#bd69ff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="M 370,241 259.48048,141.06785 a 149,149 0 0 1 23.69864,-21.15928 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#990099"
+       id="path35"
+       style="fill:#bd69ff;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g41"
+     transform="translate(-19.759157,-59.453868)"
+     style="fill:#7bff30;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1">
+    <path
+       d="M 370,241 235.18077,177.55889 a 149,149 0 0 1 24.29971,-36.49104 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#109618"
+       id="path39"
+       style="fill:#7bff30;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g45"
+     style="fill:#cf4c4c;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="m 370,241 -148.92648,4.6802 a 149,149 0 0 1 14.10725,-68.12131 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#ff9900"
+       id="path43"
+       style="fill:#cf4c4c;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g49"
+     style="fill:#ffb031;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-19.759137,-59.453868)">
+    <path
+       d="m 370,241 4.6802,148.92648 A 149,149 0 0 1 221.07352,245.6802 L 370,241"
+       stroke="#ffffff"
+       stroke-width="1"
+       fill="#dc3912"
+       id="path47"
+       style="fill:#ffb031;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g147"
+     transform="translate(-19.759137,-59.453868)">
+    <g
+       id="g59"
+       transform="translate(83.385496,10.542032)">
+      <g
+         id="g53">
+        <text
+           text-anchor="end"
+           x="531.41931"
+           y="233.0327"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text51"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan1819">أكسجين، 49.5%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 482.06868,239.50271 h 129.9695"
+       id="path2610" />
+    <g
+       id="g4140"
+       transform="translate(-465.56158,92.427013)">
+      <g
+         id="g4138">
+        <text
+           text-anchor="end"
+           x="529.56268"
+           y="233.0327"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text4136"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan4134">سيليكون، 25%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 296.43547,322.47314 H 142.44131"
+       id="path4211" />
+    <g
+       id="g4219"
+       transform="translate(-500.26742,-10.850355)">
+      <g
+         id="g4217">
+        <text
+           text-anchor="end"
+           x="524.50476"
+           y="233.0327"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text4215"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan4213">ألومونيوم، 7.5%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 262.8272,218.49753 H 108.83304"
+       id="path4221" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 278.42272,179.32299 H 112.4652"
+       id="path4223" />
+    <g
+       id="g4231"
+       transform="translate(-498.58194,-50.415256)">
+      <g
+         id="g4229">
+        <text
+           text-anchor="end"
+           x="544.19714"
+           y="233.0327"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text4227"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan4225">حديد، 4.7%</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7869"
+       transform="translate(-436.40155,-88.742418)">
+      <g
+         id="g7867">
+        <text
+           text-anchor="end"
+           x="539.33966"
+           y="233.55782"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text7865"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan7863">صوديوم، 2.6%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 296.44332,163.03626 H 159.91062"
+       id="path7871" />
+    <g
+       id="g7879"
+       transform="translate(-397.10667,-67.067853)">
+      <g
+         id="g7877"
+         transform="translate(-55.327054)">
+        <text
+           text-anchor="end"
+           x="531.06891"
+           y="232.77013"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text7875"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan7873">كالسيوم، 3.4%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 313.4313,142.14937 H 182.28282"
+       id="path9333" />
+    <g
+       id="g16247"
+       transform="translate(-415.00593,-107.14833)">
+      <g
+         id="g16245">
+        <text
+           text-anchor="end"
+           x="533.6012"
+           y="233.55782"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text16243"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan16241">بوتاسيوم، 2.4%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 323.40877,123.74347 H 203.30711"
+       id="path16249" />
+    <g
+       id="g19161"
+       transform="translate(-388.2707,-125.80455)">
+      <g
+         id="g19159">
+        <text
+           text-anchor="end"
+           x="528.03137"
+           y="233.55782"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text19157"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan19155">مغنيسيوم، 1.9%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 337.14771,105.08725 H 230.41366"
+       id="path19163" />
+    <g
+       id="g20623"
+       transform="translate(49.738261,-113.78368)">
+      <g
+         id="g20621">
+        <text
+           text-anchor="end"
+           x="528.03137"
+           y="233.55782"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text20619"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan20617">هيدروجين، 1.9%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 575.03131,116.79391 H 352.37496"
+       id="path20625" />
+    <g
+       id="g20633"
+       transform="translate(-33.193215,-132.29312)">
+      <g
+         id="g20631">
+        <text
+           text-anchor="end"
+           x="531.41931"
+           y="233.0327"
+           font-family="Arial"
+           font-size="13px"
+           stroke="none"
+           stroke-width="0"
+           fill="#222222"
+           id="text20629"
+           style="direction:rtl;fill:#ffffff"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;direction:rtl;fill:#ffffff"
+             id="tspan20627">آخرون، 1.1%</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 365.48997,96.667562 h 129.9695"
+       id="path20635" />
+  </g>
+  <g
+     id="g149"
+     transform="translate(-19.759137,-59.746273)" />
+</svg>
