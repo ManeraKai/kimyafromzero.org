@@ -105,6 +105,7 @@ div.center h3, div.center h4 {
 div.center h3 {
     font-size: 32px;
 }
+
 div.center h4 {
     font-size: 28px;
 }
@@ -201,6 +202,11 @@ strong em {
 
 img.portrait {
     width: 60%;
+}
+
+table img {
+    height: 100px;
+    width: auto;
 }
 
 img.normal {

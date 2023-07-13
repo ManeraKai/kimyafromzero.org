@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="H-F_electron_configuration_boxes.svg"
    inkscape:export-filename="../../imgs/fig_2.30.png"
    inkscape:export-xdpi="64.42411"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.49008412"
-     inkscape:cx="1328.3434"
-     inkscape:cy="752.93197"
+     inkscape:zoom="0.24504206"
+     inkscape:cx="620.30167"
+     inkscape:cy="1240.6033"
      inkscape:window-width="1888"
      inkscape:window-height="1060"
      inkscape:window-x="32"
@@ -380,7 +380,7 @@
          id="tspan6731"
          style="fill:#ffffff;stroke-width:0.927838"
          x="-1675.2582"
-         y="200.53906">N</tspan></text><path
+         y="200.53906">O</tspan></text><path
        style="fill:none;stroke:#ffffff;stroke-width:1.17656;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.411765"
        d="M -1822.0109,45.641079 V 210.65498"
        id="path6735" /><text
@@ -409,7 +409,7 @@
          id="tspan6763"
          style="fill:#ffffff;stroke-width:0.927838"
          x="-1999.0026"
-         y="200.53906">O</tspan></text><text
+         y="200.53906">N</tspan></text><text
        xml:space="preserve"
        style="font-size:37.1135px;line-height:1.25;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn;fill:#ffffff;stroke-width:0.927838"
        x="-2131.7163"
